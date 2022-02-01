@@ -1,0 +1,10 @@
+p {
+    color: purple;
+}
+
+.main p {
+    color:aqua;
+}
+#p1 {
+    color:salmon
+}
